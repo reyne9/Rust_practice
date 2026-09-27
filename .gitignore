@@ -1,0 +1,8 @@
+# Cargo build output
+**/target/
+
+# Binary built directly from projects/hello_world/main.rs
+/projects/hello_world/main
+
+# macOS metadata
+.DS_Store

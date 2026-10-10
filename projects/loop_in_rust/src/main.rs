@@ -1,13 +1,6 @@
 fn main() {
-    let mut counter = 0;
+    let condition = true;
+    let number = if condition { 5 } else { 6 };
 
-    let result - loop {
-        counter += 1;
-
-        if counter == 10 {
-            break counter * 2;
-        }
-    };
-
-    print ln!("The result is {result}");
+    println!("The value of number is: {number}");
 }

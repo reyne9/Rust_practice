@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "struct_in_rust"
+name = "control_flow"
 version = "0.1.0"
